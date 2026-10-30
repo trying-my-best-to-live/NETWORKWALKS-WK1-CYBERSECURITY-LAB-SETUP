@@ -220,18 +220,6 @@ attack unauthorized systems.
 - **Kali Linux:** https://kali.org/get-kali
 - **Android-x86:** https://android-x86.org
 
----
-
-## 👤 Author
-
-**Mazen Ashraf**  
-Cybersecurity Intern — Network Walks
-
-LinkedIn: [your-linkedin-url]  
-GitHub: [your-github-username]
-
----
-
 ## 📌 Project Information
 
 **Program:** Network Walks Cybersecurity Internship · **Week:** 01 ·
